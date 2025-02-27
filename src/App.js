@@ -7,7 +7,7 @@ import './style_router.scss';
 
 function App() {
   return (
-    <BrowserRouter basename='/react_test'>
+    <BrowserRouter>
 
       <header>
         <NavLink to='/HOME'>HOME</NavLink>
